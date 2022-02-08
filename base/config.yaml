@@ -21,4 +21,4 @@ data:
   JICOFO_AUTH_PASSWORD: NGFjYWNmMGVkMDNmNDdhZHNkZ2hqaDAyMzhjNGE3ZA== #<< update this >>
   JWT_APP_ID: jitsi
   JWT_APP_SECRET: 4728c3e93788gf63as1313c #<< update this >>
-  JWT_ACCEPTED_ISSUERS: my_web_client,my_app_client
+  JWT_ACCEPTED_ISSUERS: https://account.xperlms.com/auth/realms/xpermeet

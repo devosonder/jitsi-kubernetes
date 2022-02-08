@@ -4,7 +4,7 @@ apiVersion: autoscaling/v2beta2
 kind: HorizontalPodAutoscaler
 metadata:
   name: jvb-pod-scaler
-  namespace : jitsi
+  namespace: jitsi
 spec:
   maxReplicas: 20
   minReplicas: 2

@@ -94,7 +94,7 @@ data:
     welcomePageAdditionalContent.html: |
         <template id = "welcome-page-additional-content-template">
         <div id="footer">
-        <center><a href="https://yourshard0domain.com">Your Site</a></center>
+        <center><a href="https://stg.bizbize.live">Your Site</a></center>
         </div>
         </template>
 
@@ -126,7 +126,7 @@ data:
             DEFAULT_REMOTE_DISPLAY_NAME: 'Gast',
             DEFAULT_LOCAL_DISPLAY_NAME: 'Ich',
             SHOW_JITSI_WATERMARK: false,
-            JITSI_WATERMARK_LINK: 'http://yourshard0domain.com',
+            JITSI_WATERMARK_LINK: 'http://stg.bizbize.live',
 
             // if watermark is disabled by default, it can be shown only for guests
             SHOW_WATERMARK_FOR_GUESTS: false,
@@ -214,7 +214,7 @@ data:
             LOCAL_THUMBNAIL_RATIO: 16 / 9, // 16:9
             REMOTE_THUMBNAIL_RATIO: 1, // 1:1
             // Documentation reference for the live streaming feature.
-            LIVE_STREAMING_HELP_LINK: 'http://yourshard0domain.com/',
+            LIVE_STREAMING_HELP_LINK: 'http://stg.bizbize.live/',
 
             /**
             * Whether the mobile app Jitsi Meet is to be promoted to participants
@@ -237,7 +237,7 @@ data:
             * If indicated some of the error dialogs may point to the support URL for
             * help.
             */
-            SUPPORT_URL: 'http://yourshard0domain.com/',
+            SUPPORT_URL: 'http://stg.bizbize.live/',
 
             /**
             * Whether the connection indicator icon should hide itself based on

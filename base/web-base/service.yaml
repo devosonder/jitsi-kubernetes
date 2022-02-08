@@ -7,8 +7,6 @@ metadata:
     service: web
   name: web
   namespace: jitsi
-  annotations:
-    #service.beta.kubernetes.io/do-loadbalancer-certificate-id: 
 spec:
   type: LoadBalancer
   ports:
