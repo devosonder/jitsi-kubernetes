@@ -98,7 +98,7 @@ data:
   config: |
     # Jitsi Videobridge settings
     # sets the XMPP domain (default: none) << update this >> use your xmpp_server
-    JVB_HOSTNAME=  
+    JVB_HOSTNAME=stg.bizbize.live
 
     # sets the hostname of the XMPP server (default: domain if set, localhost otherwise)
     JVB_HOST=

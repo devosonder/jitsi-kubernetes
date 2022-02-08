@@ -390,10 +390,10 @@ data:
             },
 
             // BOSH URL. FIXME: use XEP-0156 to discover it. << update this >>
-            bosh: '//yourshard0domain.com/http-bind',
+            bosh: '//stg.bizbize.live/http-bind',
 
             // Websocket URL << update this >>
-            websocket: 'wss://yourshard0domain.com/xmpp-websocket',
+            websocket: 'wss://stg.bizbize.live/xmpp-websocket',
 
             // The name of client node advertised in XEP-0115 'c' stanza
             clientNode: 'http://jitsi.org/jitsimeet',
